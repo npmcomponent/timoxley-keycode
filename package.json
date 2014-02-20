@@ -1,26 +1,7 @@
 {
-  "name": "keycode",
-  "repo": "timoxley/keycode",
+  "name": "timoxley-keycode",
   "description": "Map of keyboard codes",
   "version": "0.3.0",
-  "main": "index.js",
-  "directories": {
-    "example": "examples",
-    "test": "test"
-  },
-  "scripts": {
-    "test": "mocha test/keycode.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/timoxley/keycode.git"
-  },
-  "author": "Tim Oxley",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/timoxley/keycode/issues"
-  },
-  "devDependencies": {
-    "mocha": "~1.12.0"
-  }
+  "dependencies": {},
+  "license": "MIT"
 }
